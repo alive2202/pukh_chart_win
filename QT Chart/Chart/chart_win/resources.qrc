@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/styles">
+        <file>my_style.stl</file>
+    </qresource>
+</RCC>

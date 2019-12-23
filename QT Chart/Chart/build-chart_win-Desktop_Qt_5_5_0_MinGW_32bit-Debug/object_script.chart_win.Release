@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\chartshow.o
+./release\ChartGL.o
+./release\mousefilter.o
+./release\tthread.o
+./release\qrc_resources.o
+./release\moc_chartshow.o
+./release\moc_ChartGL.o
+./release\moc_mousefilter.o
+./release\moc_tthread.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\chartshow.o
+./debug\ChartGL.o
+./debug\mousefilter.o
+./debug\tthread.o
+./debug\qrc_resources.o
+./debug\moc_chartshow.o
+./debug\moc_ChartGL.o
+./debug\moc_mousefilter.o
+./debug\moc_tthread.o
+);
